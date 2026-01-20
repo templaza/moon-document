@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs.moonframe.work/sitemap.xml
+Sitemap: https://docs.moonframe.work/sitemap.xml.gz
