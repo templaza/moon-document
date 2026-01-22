@@ -1,0 +1,8 @@
+{
+  "label": "Themes",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Moodle Themes."
+  }
+}
