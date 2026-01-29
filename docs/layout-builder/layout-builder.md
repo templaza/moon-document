@@ -6,14 +6,6 @@ sidebar_position: 1
 
 The Layout Builder is a visual and intuitive tool in the Moon Framework that allows you to design your Joomla website’s layout using a drag-and-drop interface. It enables you to structure your template without writing any code.
 
-<div class="video-container">
-  <iframe
-    src="https://www.youtube.com/embed/T4efXNl0KGw"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
 
 ## Overview
 
@@ -74,7 +66,7 @@ root
 ## Working with Layout Builder
 
 1. **Accessing the Layout Builder**:
-   1. Log in to your Joomla Administrator Panel.
+   1. Log in to Site Administrator Panel.
    2. Navigate to Templates > Styles.
    3. Select the template that uses Moon Framework.
    4. Click on the Layout tab.

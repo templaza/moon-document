@@ -2,13 +2,14 @@
 sidebar_position: 2
 ---
 
-# Wide vs Box Layout
+# Page Settings
 
-Astroid offers you an option to display your website with a wide or box layout. You can find the option by goin to Template options > Basic > Page Settings > Here you see Site Layout option to choose between wide or boxed layout.
+Moon offers you an option to choose between a wide and box layout. 
+You can find the option by going to Appearance > Themes > Theme Settings (Current theme) > Basic > Page Settings > Here you see Site Layout option to choose between wide or boxed layout.
 
 ## Boxed layout options
 
-![wide-box-layout.jpeg](/img/basic/wide-box-layout.jpeg)
+![moon-boxed-layout.png](img/moon-boxed-layout.png)
 
 1. **Background Image**: Choose the background image for the site.
 2. **Background Repeat**: Choose whether you want to repeat the background image or not from the different options available: Inherit, Repeat All, Repeat Horizontally, Repeat Vertically or No repeat.
@@ -18,6 +19,6 @@ Astroid offers you an option to display your website with a wide or box layout. 
 
 ## Wide Layout
 
-When the wide layout is enabled, you can set the container width. 
+When the wide layout is enabled, you can set the container width and choose the container background. 
 
 ![wide-layout.jpeg](/img/basic/wide-layout.jpeg)
