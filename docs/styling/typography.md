@@ -8,13 +8,9 @@ The Typography feature in Moon Framework allows you to easily customize fonts an
 
 ## Accessing the Typography Settings
 
-- Step 1: Open Astroid Template Settings
-  - Log in to your Joomla Administrator Panel.
-  - Navigate to Templates > Styles.
-  - Select the template that uses Moon Framework.
-
-- Step 2: Open the Typography Tab
-  - Within the Astroid Template options, click on the Typography tab to begin configuring fonts.
+  - Log in to your Site Administrator Panel.
+  - Navigate to Appearance > Themes 
+  - Edit the Moon theme's settings > Typography
 
 ## Typography Options
 
@@ -30,18 +26,3 @@ The Typography feature in Moon Framework allows you to easily customize fonts an
 - **Letter Spacing**: Adjust the spacing between characters in your text for better legibility.
 - **Font Color**: Set the default color for your text. You can choose from a color picker or enter a hex code.
 - **Font Style**: Choose between bold, italic, or underline styles for your text.
-
-![typography.jpg](../../static/img/styling/typography.jpg)
-
-## How to use local font
-
-Astroid framework supports not only Google fonts but local fonts also. In particular, it's ready for some font formats including "otf", "ttf" and "woff".
-
-Here is an example that you can follow to add your own local font:
-
-1. You can upload `ttf` to `media/templates/site/{template}/fonts` or `images/{template}/fonts`
-![local-fonts.jpg](../../static/img/styling/local-fonts.jpg)
-
-2. Go to Template options \> Typography \> Font Family \> Select Local tab & choose your custom font
-
-![select-local-font.jpg](../../static/img/styling/select-local-font.jpg)

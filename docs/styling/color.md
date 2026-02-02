@@ -57,6 +57,10 @@ Background, link colors, and mobile icon colors when the sticky header is visibl
 
 ⸻
 
+### 🗄️ BLock Drawer
+
+⸻
+
 ### 📱 Mobile Menu Colors
 
 Astroid supports 2 types of mobile menus:
@@ -75,7 +79,7 @@ You can change:
 1.	Click on the color box in any section.
 2.	Pick a new color using the color picker or enter a color code (like #ff6600).
 3.	Click Save to apply your changes.
-4.	Clear browser and Joomla cache if you don’t see updates right away.
+4.	Clear cache if you don’t see updates right away.
 
 ⸻
 

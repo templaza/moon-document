@@ -16,28 +16,19 @@ Basically, Sub-Layout plays a role like a whole section. It helps admins to reus
 
 To create sub-layouts, go to:
 
-- Log in Site Administrator (enable editing) > Appearance > Themes > Edit Current theme (theme settings)
+- Log in Site Administrator (enable editing) > Appearance > Themes > Edit Moon theme's settings
 - Go to the `Layout` → `Sub Layouts` tab.
 - Click the `New Layout` button.
 
 
-
-![edit-sub-layout.png](/img/layout-builder/edit-sub-layout.png)
+![moon-sub-layout-new2.png](/img/moon-sub-layout-new2.png)
 > Edit view of the Sub Layout
-
-![moon-layout-grid.png](/img/layout-builder/moon-layout-grid.png)
-> Choose a grid layout
-
-![moon-layout-element-panel.png](/img/layout-builder/moon-layout-element-panel.png)
-> Click add new element, and you can choose an element from the element panel
 
 ## How to Use a Sub Layout
 
 To use Sub-Layout. Switch to Layout > Layout.
 
-Add Element >> Select `Sublayout` tab >> Select a `sublayout`
-
-You can see it appear
+Add Element >> Select `Sublayout` tab >> Select a `sublayout`. You can see it appear
 
 ## How to Edit a Sub Layout
 

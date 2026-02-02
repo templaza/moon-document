@@ -67,8 +67,8 @@ root
 
 1. **Accessing the Layout Builder**:
    1. Log in to Site Administrator Panel.
-   2. Navigate to Templates > Styles.
-   3. Select the template that uses Moon Framework.
+   2. Navigate to Appearance > Themes
+   3. Edit the current Moon theme
    4. Click on the Layout tab.
 2. **Add Section**
     1.	Click “Add Section”
@@ -99,10 +99,6 @@ The Layout Builder allows you to configure how your layout behaves on different 
 * **SM** \(Mobile Portrait\): Adjusts layout for mobile portrait orientation.
 * **XS** \(Extra Small\): Configures layout for very small screens (e.g., small phones).
 
-![responsive-layout-icons.jpeg](../../static/img/layout-builder/responsive-layout-icons.jpeg)
-
-![responsive-layout-selected.jpeg](../../static/img/layout-builder/responsive-layout-selected.jpeg)
-
 ## Saving and Applying Layouts
 
 * Use the Save or Save & Close buttons to apply changes
@@ -120,7 +116,7 @@ The Layout Builder allows you to configure how your layout behaves on different 
 
 :::info[Q: Can I assign different layouts to different menu items?]
 
-A: Yes, using Astroid’s Menu Assignment feature.
+A: Yes, using Moon’s Menu Assignment feature.
 
 :::
 

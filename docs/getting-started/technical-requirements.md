@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Technical Requirement
 ## Requirements:
-- Joomla: 4.x, 5.x
+- Moodle: 4.x, 5.x
 - PHP: 8.2+
-- Mysql: 8.0+ or Maria DB 10.4+
+- Mysql: 8.0+ or Maria DB 10.11+
 
 ## PHP Specifications:
 - max_execution_time = 300

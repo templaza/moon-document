@@ -1,8 +1,0 @@
-{
-  "label": "Article Blog",
-  "position": 8,
-  "link": {
-    "type": "generated-index",
-    "description": "This page documents how the Moon Framework integrates with the Joomla Content"
-  }
-}

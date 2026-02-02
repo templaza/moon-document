@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Contact Information
 
-Moon Framework allows you to add contact information to your Joomla website. This is typically used to display the contact details of your business or organization, such as phone number, email address, and physical address.
+Moon Framework allows you to add contact information to your Moodle website. This is typically used to display the contact details of your business or organization, such as phone number, email address, and physical address.
 
 These fields can also be customized as per your choice like at which position will they be shown on the website.
 
@@ -13,10 +13,11 @@ You can modify this contact information field using the following options:
 1. **Contact Details**:
    Enable/Disable whether you want to show the contact information on your site or not.
 
-2. **Module Position**:
-   Select a suitable module position where you want to display this feature.
+2. **Select Region**:
+   Select a suitable region (position) where you want to display this feature. 
+   Then you should add the selected region to the layout.
 
-3. **Featured Load position**:
+3. **Featured Load Region**:
    In case there are other modules published at the same position, then choose where you want to load the details Before Module or After Module.
 
 4. **Phone Number**:
@@ -39,5 +40,4 @@ You can modify this contact information field using the following options:
 
 10. **Icon Color**:
     Here you can choose the color of the contact information icons. If you enable the color mode, you'll be able to adjust the icon color of both light and dark modes.
-
-![contact-information.jpeg](../../static/img/miscellaneous/contact-information.jpeg)
+    
