@@ -8,6 +8,8 @@ The Preset Profiles module allows administrators to quickly configure and manage
 
 ## Loading Presets
 
+![moon-profile-preset.png](img/moon-profile-preset.png)
+
 To load a preset of a prebuilt style, please click on the Load Preset button to proceed. It will ask you "Your current configure will be lost and overwritten by new data. Are you sure?" Agree Ok and the process will be done > then save.
 
 ## How To Export

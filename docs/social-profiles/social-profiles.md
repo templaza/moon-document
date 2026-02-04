@@ -9,6 +9,8 @@ The Social Profiles module controls the display, placement, and styling of socia
 > Access Path
 Site Administration > Appearance > Themes > Moon theme settings > Social Profiles
 
+![moon-social-profile.png](img/moon-social-profile.png)
+
 # Module Configuration
 
 ## Module State

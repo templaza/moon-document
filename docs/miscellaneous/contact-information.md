@@ -8,6 +8,8 @@ Moon Framework allows you to add contact information to your Moodle website. Thi
 
 These fields can also be customized as per your choice like at which position will they be shown on the website.
 
+![moon-contact-info.png](img/moon-contact-info.png)
+
 You can modify this contact information field using the following options:
 
 1. **Contact Details**:

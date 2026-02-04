@@ -17,6 +17,8 @@ Theming comes with 2 major features.
 
 Select the default colors and link those colors with the default area of your website (i.e. primary, secondary and others).
 
+![moon-theming.png](img/moon-theming.png)
+
 ## 🌈 Color Palette
 Moon Framework allows you to define a color palette for your theme. This palette can be used throughout your site to maintain a consistent look and feel.
 

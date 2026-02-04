@@ -14,6 +14,8 @@ The Typography feature in Moon Framework allows you to easily customize fonts an
 
 ## Typography Options
 
+![moon-body-typo.png](img/moon-body-typo.png)
+
 - **Font Family**: Choose from System Fonts, Google Fonts, or Local Fonts.
   - **System Fonts**: Select from a list of common system fonts.
   - **Google Fonts**: Browse and select from the extensive Google Fonts library.

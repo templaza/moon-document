@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Preloader
 
+![moon-preloader.png](img/moon-preloader.png)
+
 **Type**: You have 3 preloader options to choose from: Animation, Image, or Fontawesome. 
 You can select either an image or any animation from the animations library or can even choose from FontAwesome’s animation library as a preloader type. 
 The image option lets you display either your logo or any other image (gif animations and such), while the page is being loaded.

@@ -12,6 +12,8 @@ To select a header mode, follow these steps:
 2. Select a **Header Mode** option.
 3. Save your changes.
 
+![moon-header.png](img/moon-header.png)
+
 ## Horizontal Header
 
 The horizontal header layout arranges elements in a row across the page. It offers three different menu placement options: left, center, and right.
@@ -51,6 +53,7 @@ Some Header Blocks will only work on desktops, not for tablets and mobile.
 
 ### Header Breakpoint
 
-Choose a breakpoint so the header will collapse when the width is less than the selected breakpoint parameter. The lg is set as default breakpoint to suit most of the cases.
+Choose a breakpoint so the header will collapse when the width is less than the selected breakpoint parameter. 
+The lg is set as default breakpoint to suit most of the cases.
 
 

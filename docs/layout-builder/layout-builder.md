@@ -4,12 +4,13 @@ sidebar_position: 1
 
 # Layout Builder
 
-The Layout Builder is a visual and intuitive tool in the Moon Framework that allows you to design your Joomla website’s layout using a drag-and-drop interface. It enables you to structure your template without writing any code.
+The Layout Builder is a visual and intuitive tool in the Moon Framework that allows you to design your Moodle website’s layout using a drag-and-drop interface. 
+It enables you to structure your template without writing any code.
 
 
 ## Overview
 
-Moon Framework’s Layout Builder gives you full control over your Joomla template’s structure using a visual drag-and-drop interface. The layout is organized as a nested tree:
+Moon Framework’s Layout Builder gives you full control over your Moodle theme’s structure using a visual drag-and-drop interface. The layout is organized as a nested tree:
 
 ``` 
 root  
@@ -19,7 +20,6 @@ root
             └── elements (components, modules, widgets, etc.)
 ```
 
-![layout-builder.jpg](../../static/img/layout-builder/layout-builder.jpg)
 
 ## Layout Hierarchy Breakdown
 

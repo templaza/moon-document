@@ -4,16 +4,15 @@ sidebar_position: 2
 
 # Color
 
-Astroid makes it simple to change the colors of your Joomla website — no coding needed! This guide will help you understand how to update your site’s colors step by step.  
-The built-in color picker works with both light mode and dark mode, so you can preview and adjust colors accordingly.
+Moon makes it simple to change the colors of your Moodle website — no coding needed! This guide will help you understand how to update your site’s colors step by step.  
+The built-in color picker works with both light mode and dark mode (If you enable the color mode option), so you can preview and adjust colors accordingly.
 
 ## 📍 Where to Start?
-1.	Log in to your Joomla Administrator Panel.
-2.	Go to: System → Site Templates → Templates (Site).
-3.	Click on the Astroid template you are using.
-4.	Click the “Template Options” button.
-5.	Go to the Color tab.
 
+1.	Log in to your Moodle Site Administrator Panel
+2.	Go to: Appearance > Themes
+3.	Click the setting icon of the Moon theme
+4.	Go to the Colors tab
 
 ## 📘 Color Groups You Can Edit
 

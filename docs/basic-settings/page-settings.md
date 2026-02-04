@@ -21,4 +21,3 @@ You can find the option by going to Appearance > Themes > Theme Settings (Curren
 
 When the wide layout is enabled, you can set the container width and choose the container background. 
 
-![wide-layout.jpeg](/img/basic/wide-layout.jpeg)

@@ -20,8 +20,6 @@ To create sub-layouts, go to:
 - Go to the `Layout` → `Sub Layouts` tab.
 - Click the `New Layout` button.
 
-
-![moon-sub-layout-new2.png](/img/moon-sub-layout-new2.png)
 > Edit view of the Sub Layout
 
 ## How to Use a Sub Layout

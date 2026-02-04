@@ -6,6 +6,8 @@ sidebar_position: 4
 The layout manager in Moon framework is one of the core engines and it can be cumbersome at times with so many options. 
 We will use this tutorial to simplify it and go through all the available options. In the screenshot below, you can see different colors and numbers representing settings for different areas in the Layout Manager.
 
+![moon-layout-guide.png](img/moon-layout-guide.png)
+
 1. Edit the section-level settings.
 2. Duplicate the section.
 3. Delete the section.

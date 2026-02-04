@@ -9,6 +9,8 @@ The Google Map module allows administrators to integrate Google Maps into the we
 > Access Path
 Site Administration → Appearance → Themes > Moon theme settings > APIs
 
+![moon-gg-api.png](img/moon-gg-api.png)
+
 # Google Map API Key
 
 - Type: Text Input

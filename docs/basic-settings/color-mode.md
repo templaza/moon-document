@@ -9,6 +9,8 @@ Go the Appearance > Theme > Theme settings > Basic > Color Mode > Choose a color
 - Light/Dark
 - Dark
 
+![moon-color-mode.png](img/moon-color-mode.png)
+
 ## Light or Dark Color Mode
 
 - Transform offset: Set the transform offset for the theme.

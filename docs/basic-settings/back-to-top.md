@@ -7,6 +7,8 @@ sidebar_position: 5
 Moon framework provides a back to top button that appears when the user scrolls down the page. 
 This button allows users to quickly return to the top of the page without having to scroll manually.
 
+![moon-back-to-top.png](img/moon-back-to-top.png)
+
 1. Back To Top: Choose whether you want to enable/disable the icon.
 2. Icon: Choose the icon for your back-to-top button.
 3. Icon Size: Set the size of the icon in pixels by sliding over the indicator.
