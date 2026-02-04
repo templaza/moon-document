@@ -7,7 +7,8 @@ sidebar_position: 1
 # What is Moon Framework?
 
 Moon Framework was developed with simplicity and ease of use in mind. Moon lets you manage every aspect of your Moodle website without writing a single line of code. Its intuitive interface helps you build performant and responsive websites the easy way.
-Moon is a powerful modern framework tailored for designers and developers or simply assists you in building your first website. Its intuitive interface helps you create fully responsive, fast & robust Moodle-based websites and templates. Astroid uses the last mainstream web technologies and fully integrates and enhances the core abilities of Moodle.
+Moon is a powerful modern framework tailored for designers and developers or simply assists you in building your first website. Its intuitive interface helps you create fully responsive, fast & robust Moodle-based websites and themes. 
+Moon framework comes with the last mainstream web technologies and fully integrates and enhances the core abilities of Moodle.
 
 ## Key Features
 
@@ -16,11 +17,11 @@ Moon is a powerful modern framework tailored for designers and developers or sim
 - Structure 100% Responsive with Advanced per Devices User Controls
 - Bootstrap 5 Compatible, Sass Ready, Custom CSS & SCSS files if needed
 - Drag & Drop Layout Builder with Total Design Flexibility
-- Flexible Logo and Header Options (Retina Logo, “Sticky” Menu, Layout Controls...)
+- Flexible Header Options
 - Font Awesome 6 (External or Local Load)
 - Social Icons, Phone & Share
 - Sections & Elements Animations plus Extensive Background Controls
-- Advanced Typography Controls for External (Google...) or Self-Hosted Fonts
+- Advanced Typography Controls for External (Google...)
 - Unlimited Integration of Custom Code & files (Javascript, CSS, Tracking Code...)
 - Custom Profiles & Themes with Import/Export Settings
 - Lazy Loading & JS & CSS Code Optimization
