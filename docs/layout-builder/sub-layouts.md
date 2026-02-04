@@ -20,7 +20,8 @@ To create sub-layouts, go to:
 - Go to the `Layout` → `Sub Layouts` tab.
 - Click the `New Layout` button.
 
-> Edit view of the Sub Layout
+![moon-sub-layout-save.png](img/moon-sub-layout-save.png)
+
 
 ## How to Use a Sub Layout
 
@@ -28,11 +29,18 @@ To use Sub-Layout. Switch to Layout > Layout.
 
 Add Element >> Select `Sublayout` tab >> Select a `sublayout`. You can see it appear
 
+![moon-choose-sublayout.png](img/moon-choose-sublayout.png)
+> Choose a sub-layout from the library
+
+![moon-insert-sublayout.png](img/moon-insert-sublayout.png)
+
 ## How to Edit a Sub Layout
 
-If you want to edit sub-layouts. Go back to Layout >> `Sub Layouts` >> Click to title to edit layout
+If you want to edit sub-layouts. Go back to Layout >> `Sub Layouts` >> Click to title of each sub-layout. 
 
 Edit your sub-layout and save it again. Then go to Frontend to see the result.
+
+
 
 ## Summary
 

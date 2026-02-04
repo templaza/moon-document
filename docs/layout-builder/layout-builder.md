@@ -5,8 +5,7 @@ sidebar_position: 1
 # Layout Builder
 
 The Layout Builder is a visual and intuitive tool in the Moon Framework that allows you to design your Moodle website’s layout using a drag-and-drop interface. 
-It enables you to structure your template without writing any code.
-
+It enables you to structure your site without writing any code.
 
 ## Overview
 
@@ -116,7 +115,7 @@ The Layout Builder allows you to configure how your layout behaves on different 
 
 :::info[Q: Can I assign different layouts to different menu items?]
 
-A: Yes, using Moon’s Menu Assignment feature.
+A: Yes, you can.
 
 :::
 
