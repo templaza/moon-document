@@ -1,0 +1,8 @@
+{
+  "label": "Moodle Settings",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Global questions for Moodle"
+  }
+}
