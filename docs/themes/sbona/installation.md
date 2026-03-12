@@ -10,7 +10,7 @@ Upload and install via ZIP file
 1. Login to your Moodle site as an admin.
 2. Go to Site administration > Plugins > Install plugins.
 3. In your downloaded package from ThemeForest, open the folder Theme. Choose the appropriate upload file for your Moodle version:
-4. Upload the ZIP file (theme_moon)
+4. Upload the ZIP file (theme_sbona)
 5. Check the plugin validation report, then click the button 'Install plugin'.
 
 **Install Plugins**
@@ -100,7 +100,7 @@ For security reasons, please change the administrator password after your first 
 
 **The theme selector**
 
-An administrator can set a theme for the site from Site **_administration > Appearance > Themes > Theme selector_**.
+An administrator can set a theme for the site from **_Site administration > Appearance > Themes > Theme selector_**.
 
 Go to **_Site administration > Appearance > Themes_**
 

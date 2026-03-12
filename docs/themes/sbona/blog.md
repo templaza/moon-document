@@ -174,25 +174,8 @@ After modifying settings:
 
 ---
 
-# Recommended Configuration (Standard LMS)
-
-| Setting                     | Recommended Value |
-| --------------------------- | ----------------- |
-| Enable blog associations    | Yes               |
-| Blog visibility             | All site users    |
-| Enable external blogs       | Yes (if needed)   |
-| Cron schedule               | 24 hours          |
-| Max external blogs per user | 1                 |
-| Enable comments             | Yes               |
-| Show comments count         | Yes               |
-
----
-
 # Single Blog Content
 
 ## Add A New Blog Post
-Please login to your Site admin > Enable the editing mode. Then navigate from the Main Menu > More > Blog > Click on Add a new entry button to start creating a new blog post.
+Please login to your Moodle Site > Enable the editing mode. Then navigate from the Main Menu > More > Blog > Click on Add a new entry button to start creating a new blog post.
 
-![add-new-blog-post.png](img/add-new-blog-post.png)
-
-![blog-excerpt.jpg](img/blog-excerpt.jpg)

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Moon - Introduction
+# Sbona - Introduction
 
-Moon is a modern and powerful Moodle LMS education theme designed for universities, schools, and online academies that need a fast setup, clean course layouts, and full Moodle compatibility. This Moodle education theme is 100% responsive, clean, and fluid, delivering a sharp and consistent user experience on all devices. Moon includes multiple flexible and customizable front-page sections, all easily managed through the admin settings panel. With its modern design, LMS-focused features, and easy customization, Moon is the perfect solution for anyone looking to build a high-quality Moodle LMS education website without coding.
+Sbona is a modern and powerful Moodle LMS education theme designed for universities, schools, and online academies that need a fast setup, clean course layouts, and full Moodle compatibility. This Moodle education theme is 100% responsive, clean, and fluid, delivering a sharp and consistent user experience on all devices. Moon includes multiple flexible and customizable front-page sections, all easily managed through the admin settings panel. With its modern design, LMS-focused features, and easy customization, Moon is the perfect solution for anyone looking to build a high-quality Moodle LMS education website without coding.
 
 The theme comes packed with powerful customization options and is continuously updated with new features, improvements, and Moodle LMS compatibility to keep your education website modern and future-ready.
 ---

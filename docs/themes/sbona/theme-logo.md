@@ -11,8 +11,6 @@ This section allows administrators to upload and manage the visual branding asse
 You can access this page from:
 **Site administration → Appearance → Logos**
 
-![moon-theme-logo.png](img/moon-theme-logo.png)
-
 ---
 
 ## 1. Logo (Main Logo)

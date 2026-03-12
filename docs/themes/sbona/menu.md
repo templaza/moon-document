@@ -6,9 +6,6 @@ sidebar_position: 3
 
 This page controls **how themes work and how much users can customize the look of Moodle**. Most sites only need a few options enabled.
 
-
-![moon-theme-advanced-settings.png](img/moon-theme-advanced-settings.png)
-
 ---
 
 ## 1. Theme list
@@ -219,20 +216,6 @@ Leave default unless you want to **simplify or customize** the menu.
 ## 14. Save changes
 
 Always click **Save changes** at the bottom to apply settings.
-
----
-
-## Recommended Default Settings (Quick Guide)
-
-| Setting               | Recommended |
-| --------------------- | ----------- |
-| Theme designer mode   | ❌ No        |
-| Allow user themes     | ❌ No        |
-| Allow course themes   | ❌ No        |
-| Allow category themes | ❌ No        |
-| Allow cohort themes   | ❌ No        |
-| Theme change via URL  | ❌ No        |
-| Users hide blocks     | ✅ Yes       |
 
 ---
 

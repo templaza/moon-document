@@ -27,13 +27,9 @@ When you come with pages such as: Home pages, About, Contact, Testimonials > Log
 - Select the layout you want to edit (e.g., About).
 - Click to open the layout builder interface.
 
-![moon-page-layouts.png](img/moon-page-layouts.png)
-
 1. Layout Tabs
 
 You can manage multiple layouts using tabs by switching between layouts by clicking the tab, or create a new layout.
-
-![moon-layout-tabs.png](img/moon-layout-tabs.png)
 
 - Edit the layout title: Click on the Edit info button in the bottom bar
 - Default layout: You can set a layout as default by clicking on Mark As Default button 

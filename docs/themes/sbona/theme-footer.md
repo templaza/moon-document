@@ -6,8 +6,6 @@ sidebar_position: 3
 
 Please go to Site Administrator > Appearance > Themes > Edit the Moon theme's settings > Layout > Sub-Layout.
 
-![moon-theme-settings.png](img/moon-theme-settings.png)
-
 ---
 
 # Theme Footer – Admin Manual
