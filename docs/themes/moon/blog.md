@@ -195,4 +195,3 @@ Please login to your Site admin > Enable the editing mode. Then navigate from th
 
 ![add-new-blog-post.png](img/add-new-blog-post.png)
 
-![blog-excerpt.jpg](img/blog-excerpt.jpg)
