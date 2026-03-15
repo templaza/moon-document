@@ -23,7 +23,7 @@ Add a short description into the "Course Summary" text area.
 Add course intro text
 Intro text is a short text below the course title . By default, intro text is the first sentence of the course summary. If you want to add custom intro text, use the mb2intro field.
 
-Add course video
+**Add course video**
 To add course video, use video custom fields:
 
 mb2video field - to add web video (YouTube, Vimeo, aparat.com).
@@ -31,32 +31,31 @@ mb2video_local field - to add local video file.
 Add the "what you'll learn" section
 To add the "what you'll learn" section, use the mb2skills field.
 
-Add the "course content" section
+**Add the "course content" section**
 To add the "course content" section:
 
-Go to course.
-Turn editing ON .
-Add course topic or week.
-Moodle documentation: To add course sections.
+- Go to course.
+- Turn editing ON .
+- Add course topic or week.
 
-Add course instructors
+[Moodle documentation: To add course sections](https://docs.moodle.org/21/en/Course_sections).
+
+**Add course instructors**
 To add course instructors:
 
-Go to course.
-Then go to "participants".
-Enrol user into the course with the "Teacher" role.
-Course rating stars and reviews
-Read documentation about the Course rating.
+- Go to course.
+- Then go to "participants".
+- Enrol user into the course with the "Teacher" role.
 
-Course custom fields
-Course custom fields  have been a core Moodle feature since Moodle 3.7. Watch the video below to learn how to add course custom fields.
+**Course custom fields**
+Course custom fields  have been a core Moodle feature since Moodle 3.7.
 
-Moodle documentation: Course custom fields.
+[Moodle documentation: Course custom fields](https://docs.moodle.org/en/Custom_fields).
 
 Make course enrolment page visible for the site visitors
 To make the course enrolment page visible to site visitors without requiring them to click the "Log in as a guest" button, you need to enable the Auto-login guests feature. To do this:
 
-Go to: Site administration > Users > Permissions > User policies.
-CHECK the "Auto-login guests" option and save settings.
-Then go to: Site administration > Plugins > Authentication > Manage authentication.
-Set the "Guest login button" option to SHOW and save settings.
+- Go to: Site administration > Users > Permissions > User policies.
+- CHECK the "Auto-login guests" option and save settings.
+- Then go to: Site administration > Plugins > Authentication > Manage authentication.
+- Set the "Guest login button" option to SHOW and save settings.
