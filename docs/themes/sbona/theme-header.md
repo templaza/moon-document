@@ -2,11 +2,9 @@
 sidebar_position: 4
 ---
 
-# Header Settings – Admin Manual (Moon Framework)
+# Header Settings
 
-This document explains how to configure the **Header** in the Moon framework. It is written for site administrators and non‑technical users.
-
----
+This document explains how to configure the **Header** in the Moon framework.
 
 ## 1. Accessing Header Settings
 
@@ -15,7 +13,6 @@ This document explains how to configure the **Header** in the Moon framework. It
 3. Go to **Header** in the left sidebar.
 4. Click **Save** after making changes.
 
-Use **Preview** to check the result before publishing.
 ---
 
 ## Enable Header
@@ -32,10 +29,9 @@ Use **Preview** to check the result before publishing.
 # Header Modes
 
 The Moon Header System supports three primary modes, each with its own layout options and configuration parameters.
----
 
 To select a header mode, follow these steps:
-1. Go to Site Administrator > Appearance > Themes > Theme Settings (Current theme) > Header > Header
+1. Go to Site Administrator > Appearance > Themes > Theme Settings (Current theme - Sbona theme) > Header > Header
 2. Select a **Header Mode** option.
 3. Save your changes.
 
