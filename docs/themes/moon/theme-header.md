@@ -32,7 +32,6 @@ Use **Preview** to check the result before publishing.
 # Header Modes
 
 The Moon Header System supports three primary modes, each with its own layout options and configuration parameters.
----
 
 To select a header mode, follow these steps:
 1. Go to Site Administrator > Appearance > Themes > Theme Settings (Current theme) > Header > Header
