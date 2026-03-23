@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Header Settings – Admin Manual (Moon Framework)
+# Header Settings
 
 This document explains how to configure the **Header** in the Moon framework. It is written for site administrators and non‑technical users.
 

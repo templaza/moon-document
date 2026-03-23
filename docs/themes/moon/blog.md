@@ -8,12 +8,9 @@ sidebar_position: 9
 `Site administration → Appearance → Blog`
 
 This page allows administrators to control how the blog feature works across the entire site, including visibility, external blog integration, and comment management.
-You can also refer to the Moodle Blog Documentation: [Moodle Blog](https://docs.moodle.org/500/en/Blogs) 
----
+You can also refer to the Moodle Blog Documentation: [Moodle Blog](https://docs.moodle.org/500/en/Blogs)
 
-# 1. Enable Blog Associations
-
-### Setting: **Enable blog associations**
+## 1. Enable Blog Associations
 
 **Purpose:**
 Allows blog posts to be linked (associated) with:
@@ -35,9 +32,7 @@ Keep enabled if your LMS uses blogs for learning reflections or course-based dis
 
 ---
 
-# 2. Blog Visibility
-
-### Setting: **Blog visibility**
+## 2. Blog Visibility
 
 **Purpose:**
 Controls who can view blog entries across the platform.
@@ -61,9 +56,7 @@ This controls viewing permissions globally. Individual blog privacy settings sti
 
 ---
 
-# 3. Enable External Blogs
-
-### Setting: **Enable external blogs**
+## 3. Enable External Blogs
 
 **Purpose:**
 Allows users to connect external blog feeds (RSS/Atom) to their Moodle blog.
@@ -82,9 +75,7 @@ Helpful when instructors or students maintain blogs outside the LMS and want aut
 
 ---
 
-# 4. External Blog Cron Schedule
-
-### Setting: **External blog cron schedule**
+## 4. External Blog Cron Schedule
 
 **Purpose:**
 Defines how often Moodle checks external blog feeds for new entries.
@@ -105,9 +96,7 @@ This depends on the system cron job being configured correctly.
 
 ---
 
-# 5. Maximum Number of External Blogs per User
-
-### Setting: **Maximum number of external blogs per user**
+## 5. Maximum Number of External Blogs per User
 
 **Default:** 1
 
@@ -122,9 +111,7 @@ Keep low (1–2) to avoid performance issues and excessive feed checks.
 
 ---
 
-# 6. Enable Comments
-
-### Setting: **Enable comments**
+## 6. Enable Comments
 
 **Purpose:**
 Allows users to comment on blog posts.
@@ -144,9 +131,7 @@ Enable for collaborative learning environments.
 
 ---
 
-# 7. Show Comments Count
-
-### Setting: **Show comments count**
+## 7. Show Comments Count
 
 **Purpose:**
 Displays the number of comments next to blog posts (Default: Yes)
@@ -159,26 +144,23 @@ On very large sites, disabling this may slightly improve performance.
 
 ---
 
-# 8. Saving Changes
-
-After modifying settings:
-
-1. Click **Save changes**
-2. If changes do not apply immediately:
-
-  * Go to `Site administration → Development → Purge caches`
-3. Test by:
-
-  * Creating a blog entry
-  * Checking visibility
-  * Testing comments
-
----
-
-# Single Blog Content
-
-## Add A New Blog Post
-Please login to your Site admin > Enable the editing mode. Then navigate from the Main Menu > More > Blog > Click on Add a new entry button to start creating a new blog post.
+# Adding a blog entry
 
 ![add-new-blog-post.png](img/add-new-blog-post.png)
 
+![moon-theme-blog-new.png](img/moon-theme-blog-new.png)
+
+From the main menu > Blog > Add A new blog entry
+Alternatively, if the Blog menu block is enabled in the course, click Add a new entry there.
+Write your entry and give it a title.
+
+If you want to attach a file, click the Add button to access the File picker to locate a file. Be sure your document is smaller than the maximum attachment size. Alternatively, drag and drop your file into the box provided.
+
+Choose who you wish to publish the entry to i.e. who may see the entry. There are three options:
+
+- Yourself i.e. your blog entry is a draft
+- Anyone on your site
+- Anyone in the world
+
+Select appropriate official tags for your entry and/or add one or more user defined tags. If you add more than one, they should be comma separated.
+Click on the "Save changes" button.
