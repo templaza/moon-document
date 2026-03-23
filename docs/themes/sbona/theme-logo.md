@@ -11,6 +11,8 @@ This section allows administrators to upload and manage the visual branding asse
 You can access this page from:
 **Site administration → Appearance → Logos**
 
+![sbona-logo.png](img/sbona-logo.png)
+
 ---
 
 ## 1. Logo (Main Logo)
@@ -102,26 +104,6 @@ The **Favicon** appears in the browser tab next to the page title. It helps user
 1. Click the **Upload icon** in the Favicon section.
 2. Select the favicon image.
 3. Confirm the upload.
-
----
-
-## 4. Saving Changes
-
-After uploading or changing any logo:
-
-1. Scroll to the bottom of the page.
-2. Click **Save changes**.
-3. Refresh the site (and browser cache if needed) to see the updates.
-
----
-
-## Notes & Best Practices
-
-* Always test logo visibility on **desktop and mobile devices**.
-* If logos do not update immediately, clear the **theme cache**:
-
-    * Site administration → Development → Purge caches
-* Use consistent branding across all three assets for a professional look.
 
 ---
 

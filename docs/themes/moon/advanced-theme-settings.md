@@ -1,10 +1,13 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
 
 # Advanced Theme Settings
 
 This page controls **how themes work and how much users can customize the look of Moodle**. Most sites only need a few options enabled.
+
+
+![moon-theme-advanced-settings.png](img/moon-theme-advanced-settings.png)
 
 ---
 
@@ -213,9 +216,5 @@ Leave default unless you want to **simplify or customize** the menu.
 
 ---
 
-## 14. Save changes
 
-Always click **Save changes** at the bottom to apply settings.
-
----
 

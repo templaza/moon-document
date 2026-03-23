@@ -9,6 +9,9 @@ Moon includes multiple flexible and customizable front-page sections, all easily
 
 The theme comes packed with powerful customization options and is continuously updated with new features, improvements, and Moodle LMS compatibility to keep your education website modern and future-ready.
 
+![sbona-intro.png](img/sbona-intro.png)
+
+
 ## Theme's Feature Overview
 
 - Layout Builder: Easily set up and customize layouts for every page.
@@ -22,4 +25,4 @@ The theme comes packed with powerful customization options and is continuously u
 - Custom Enrolment Page: Create attractive pages where users can subscribe to a course.
 - Site News: Show your site news with an attractive blog-style layout.
 - Course Overview: Choose between different styles and options to promote your courses.
-- Responsive Design: Theme Moon adapts to all screen resolutions. It’s 100% responsive and looks great on all devices.
+- Responsive Design: Sbona theme adapts to all screen resolutions. It’s 100% responsive and looks great on all devices.

@@ -2,18 +2,13 @@
 sidebar_position: 3
 ---
 
-# Theme Footer
-
-Please go to Site Administrator > Appearance > Themes > Edit the Moon theme's settings > Layout > Sub-Layout.
-
----
-
-# Theme Footer – Admin Manual
-
 ## 1. Overview
 
 The **theme footer** is created using a **Sub-Layout**.
 This sub-layout is then inserted into the **Main Layout**, allowing you to reuse and manage the footer content easily.
+Please go to Site Administrator > Appearance > Themes > Edit the Sbona theme's settings > Layout > Sub-Layout.
+
+![sbona-settings.png](img/sbona-settings.png)
 
 You can:
 
@@ -24,20 +19,11 @@ You can:
 
 ---
 
-## 2. Accessing the Footer Sub-Layout
+## 2. Understanding the Footer Structure
 
-1. Go to **Theme Settings** or **Layout Builder**
-2. Open **Sub Layouts**
-3. Select the footer sub-layout (example: *Footer Layout*)
-4. Click **Edit**
+![sbona-footer-layout.png](img/sbona-footer-layout.png)
 
-You will now see the footer layout editor.
-
----
-
-## 3. Understanding the Footer Structure
-
-### 3.1 Sections
+### 2.1 Sections
 
 The footer is divided into **sections** (labeled as *Astroid Section*).
 
@@ -46,15 +32,9 @@ Each section can contain:
 * One or more rows
 * Multiple content blocks (text, image, links, etc.)
 
-You can:
-
-* ✏ Edit a section
-* 🗑 Delete a section
-* ➕ Add a new section
-
 ---
 
-### 3.2 Rows and Columns
+### 2.2 Rows and Columns
 
 Inside each section:
 
@@ -71,7 +51,7 @@ Inside each section:
 
 ---
 
-## 4. Footer Content Blocks
+## 3. Footer Content Blocks
 
 Each box inside a column is a **content block**.
 
@@ -87,7 +67,7 @@ Each box inside a column is a **content block**.
 
 ---
 
-## 5. Editing Footer Content
+## 4. Editing Footer Content
 
 1. Click on a content block (e.g. *About Us*)
 2. Update the text, image, or links
@@ -97,7 +77,7 @@ Changes apply instantly after saving.
 
 ---
 
-## 6. Adding New Content
+## 5. Adding New Content
 
 ### Add a new content block
 
@@ -114,7 +94,7 @@ Changes apply instantly after saving.
 
 ---
 
-## 7. Device Preview
+## 6. Device Preview
 
 At the top of the editor, you can switch between:
 
@@ -127,24 +107,9 @@ Use these to ensure the footer looks good on all devices.
 
 ---
 
-## 8. Saving Your Changes
+## 7. How the Footer Appears on the Website
 
-At the bottom of the screen:
-
-* **Save** – Save changes and continue editing
-* **Save & Close** – Save and exit
-* **Cancel** – Discard changes
-
-⚠️ Always click **Save** before leaving the page.
-
----
-
-## 9. How the Footer Appears on the Website
-
-* The footer **sub-layout** is linked to the **main layout**
-* Any changes you make here will automatically update the website footer
-* No additional setup is required
-
----
-
+* The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save. 
+* Any changes you make in the sub-layout will be automatically updated in the website footer.
+* No additional setup is required.
 

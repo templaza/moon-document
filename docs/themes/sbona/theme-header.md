@@ -4,14 +4,13 @@ sidebar_position: 4
 
 # Header Settings
 
-This document explains how to configure the **Header** in the Moon framework.
+This document explains how to configure the **Header Settings** in the Moon framework.
 
 ## 1. Accessing Header Settings
 
 1. Log in to the Admin Panel.
-2. Open **Moon → Theme Settings**.
-3. Go to **Header** in the left sidebar.
-4. Click **Save** after making changes.
+2. Open **Appearance > Themes > Sbona theme > click on the Settings icon**.
+3. Navigate **Header** in the left sidebar.
 
 ---
 
@@ -30,10 +29,9 @@ This document explains how to configure the **Header** in the Moon framework.
 
 The Moon Header System supports three primary modes, each with its own layout options and configuration parameters.
 
-To select a header mode, follow these steps:
-1. Go to Site Administrator > Appearance > Themes > Theme Settings (Current theme - Sbona theme) > Header > Header
-2. Select a **Header Mode** option.
-3. Save your changes.
+- Horizontal Header
+- Stacked Header
+- Sidebar Header
 
 ## Horizontal Header
 

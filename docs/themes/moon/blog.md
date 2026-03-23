@@ -1,4 +1,5 @@
-
+---
+sidebar_position: 9
 ---
 
 # Blog Settings
@@ -171,20 +172,6 @@ After modifying settings:
   * Creating a blog entry
   * Checking visibility
   * Testing comments
-
----
-
-# Recommended Configuration (Standard LMS)
-
-| Setting                     | Recommended Value |
-| --------------------------- | ----------------- |
-| Enable blog associations    | Yes               |
-| Blog visibility             | All site users    |
-| Enable external blogs       | Yes (if needed)   |
-| Cron schedule               | 24 hours          |
-| Max external blogs per user | 1                 |
-| Enable comments             | Yes               |
-| Show comments count         | Yes               |
 
 ---
 
