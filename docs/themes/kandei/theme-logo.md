@@ -28,6 +28,7 @@ The **Main Logo** is the full-size logo used as a decorative branding element by
 
     * JPG (`.jpg`)
     * PNG (`.png`)
+  
 * **Maximum file size:** Unlimited
 * **Maximum number of files:** 1
 * **Default value:** Empty
@@ -89,6 +90,7 @@ The **Favicon** appears in the browser tab next to the page title. It helps user
 * **Accepted file types:**
 
     * `.ai`, `.bmp`, `.gif`, `.ico`, `.jpeg`, `.jpg`, `.pct`, `.pic`, `.png`, `.svg`, `.svgz`, `.tif`, `.tiff`, `.webp`
+  
 * **Maximum file size:** Unlimited
 * **Maximum number of files:** 1
 * **Default value:** Empty (Moodle default favicon is used if none is provided)
