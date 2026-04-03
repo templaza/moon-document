@@ -6,3 +6,4 @@ sidebar_position: 3
 
 - Go to: Administrator/User/Permissions/User policies
 - find : Auto-login guests and checked
+ 
