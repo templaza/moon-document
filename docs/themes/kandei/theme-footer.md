@@ -8,7 +8,7 @@ The **theme footer** is created using a **Sub-Layout**.
 This sub-layout is then inserted into the **Main Layout**, allowing you to reuse and manage the footer content easily.
 Please go to Site Administrator > Appearance > Themes > Edit the Kandei theme's settings > Layout > Sub-Layout.
 
-![sbona-settings.png](img/sbona-settings.png)
+![kandei-theme-settings.png](img/kandei-theme-settings.png)
 
 You can:
 
@@ -21,7 +21,9 @@ You can:
 
 ## 2. Understanding the Footer Structure
 
-![sbona-footer-layout.png](img/sbona-footer-layout.png)
+![kandei-footer-sublayout.png](img/kandei-footer-sublayout.png)
+
+![kandei-footer-layout.png](img/kandei-footer-layout.png)
 
 ### 2.1 Sections
 

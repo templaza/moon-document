@@ -10,7 +10,7 @@ Upload and install via ZIP file
 1. Login to your Moodle site as an admin.
 2. Go to Site administration > Plugins > Install plugins.
 3. In your downloaded package from ThemeForest, open the folder Theme. Choose the appropriate upload file for your Moodle version:
-4. Upload the ZIP file (theme_sbona)
+4. Upload the ZIP file (theme_kandei)
 5. Check the plugin validation report, then click the button 'Install plugin'.
 
 **Install Plugins**
@@ -20,7 +20,7 @@ Upload and install via ZIP file
 - Local folder: local_moon.zip
 
 ## Import Demo Content
-Follow these steps to successfully install the Moon's demo content on your Moodle site.
+Follow these steps to successfully install the Kandei's demo content on your Moodle site.
 
 ### Step 1: Create a Database
 

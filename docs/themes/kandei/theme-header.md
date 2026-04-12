@@ -89,20 +89,3 @@ Example:
 
 > Recommended setting: **Large** for better mobile usability.
 
----
-
-## Common Issues & Solutions
-
-**Header not visible**
-
-* Check that **Enable Header** is turned on.
-
-**Menu not aligned correctly**
-
-* Verify **Header Mode** and **Horizontal Menu Mode**.
-
-**Changes not showing**
-
-* Click **Clear Cache**, then refresh the page.
-
----

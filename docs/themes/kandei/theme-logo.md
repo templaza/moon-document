@@ -11,7 +11,7 @@ This section allows administrators to upload and manage the visual branding asse
 You can access this page from:
 **Site administration → Appearance → Logos**
 
-
+![kandei-logo-settings.png](img/kandei-logo-settings.png)
 
 ---
 

@@ -6,13 +6,13 @@ sidebar_position: 3
 
 Setting up your custom menu is very simple and uses a straight forward syntax that anyone can use. Read more at [Moodle Custom Menu](https://docs.moodle.org/33/en/Theme_settings#Custom_menu_items).
 
-![sbona-custom-menu.png](img/sbona-custom-menu.png)
+![kandei-custom-menu.png](img/kandei-custom-menu.png)
 
 ---
 
 # 📘 How to Add a Custom Menu in your Moodle
 
-## 🔧 Step 1: Go to Theme Settings
+## Step 1: Go to Theme Settings
 
 1. Log in as an **Administrator**
 2. Navigate to: **Site administration → Appearance → Advanced Theme settings**
@@ -20,7 +20,7 @@ Setting up your custom menu is very simple and uses a straight forward syntax th
 
 ---
 
-## ✍️ Step 2: Add Menu Items
+## Step 2: Add Menu Items
 
 Essentially, every menu item consists of 2 parts: the menu title as text (which is what users will see) a vertical bar and then the link url. 
 The vertical bar or pipe is used whenever the menu item will be linked. For sub-menu items (those that show when you click or hover over the menu titles) you can add a prefix of one dash or two dashes depending on the hierarchy.
@@ -41,7 +41,7 @@ Contact | /contact
 
 ---
 
-## 📂 Step 3: Create Dropdown Menus
+## Step 3: Create Dropdown Menus
 
 To create a submenu, use a **hyphen (-)** before items:
 
@@ -55,7 +55,7 @@ Courses
 
 ---
 
-## ➕ Step 4: Add Divider (Optional)
+## Step 4: Add Divider (Optional)
 
 Use `###` to insert a separator:
 
@@ -68,7 +68,7 @@ Resources
 
 ---
 
-## 🌐 Step 5: Multi-language Menu (Optional)
+## Step 5: Multi-language Menu (Optional)
 
 ```
 Home | / | en
