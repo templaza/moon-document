@@ -12,6 +12,8 @@ This document explains how to configure the **Header Settings** in the Moon fram
 2. Open **Appearance > Themes > Kandei theme > click on the Settings icon**.
 3. Navigate **Header** in the left sidebar.
 
+![kandei-theme-settings.png](img/kandei-theme-settings.png)
+
 ---
 
 ## Enable Header

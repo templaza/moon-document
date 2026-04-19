@@ -92,6 +92,7 @@ Inside each row, you can add content elements such as:
 - Main Content
 - Menu Backend
 - Course Category Tab
+- Others ...
 
 #### 5.1 Add an Element
 
@@ -103,7 +104,7 @@ Inside each row, you can add content elements such as:
 #### 5.2 Edit an Element
 
 - Click the element block.
-- Modify content, styling, or settings.
+- Modify General Settings, Design, Animation, and Visibility
 - Save changes.
 
 #### 5.3 Duplicate or Delete
