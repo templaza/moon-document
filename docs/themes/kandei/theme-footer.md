@@ -109,7 +109,19 @@ Use these to ensure the footer looks good on all devices.
 
 ---
 
-## 7. How the Footer Appears on the Website
+## 7. Footer background
+
+![kandei-edit-footer-section.png](img/kandei-edit-footer-section.png)
+
+![kandei-edit-footer-bg.png](img/kandei-edit-footer-bg.png)
+
+* Go to Layouts > Sub-layout in your theme settings. Select the sub-layout used for the footer.
+* Find the section containing the whole footer > Click the pencil icon (highlighted in the screenshot). This opens the section settings panel.
+* In the Design tab, you can see options to change the background image and background color. 
+
+---
+
+## 8. How the Footer Appears on the Website
 
 * The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save. 
 * Any changes you make in the sub-layout will be automatically updated in the website footer.
