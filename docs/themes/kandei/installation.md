@@ -31,7 +31,7 @@ Follow these steps to successfully install the Kandei's demo content on your Moo
 
 1. Open your newly created database in phpMyAdmin. 
 2. Click on Import.
-3. Choose and import the moon_moonframework.sql file (extracted from the demo package).
+3. Choose and import the kandei_moodle.sql file (extracted from the demo package).
 
 ### Step 3: Upload Files
 
