@@ -12,7 +12,7 @@ Here below is the way to change a section background image in Moon framework, no
 
 * Go to **Moodle Admin → Site Administration → Appearance → Themes → Unican Settings
 
-### 2. Go to Sub-Layout Builder and edit the section
+### 2. Go to Layout Builder and edit the section
 
 * Go to the **“Layout”** tab > Navigate the section containing the Breadcrumb.
 * Click edit the section
@@ -23,6 +23,8 @@ Here below is the way to change a section background image in Moon framework, no
 * Under **Background Image** You can click **Change Image**, upload a new image or choose another background type. 
 
 ![unican-breadcrumb-edit-bg.png](img/unican-breadcrumb-edit-bg.png)
+
+* **Note**: In case you create the Breadcrumb with a Sub-layout, you should go to Layout > Sub-layouts > edit the Breadcrumb sub-layout > edit the section > Design tab and change the background image. 
 
 ### 3. Configure Background Options
 
