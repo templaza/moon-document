@@ -17,7 +17,7 @@ Here below is the way to change a section background image in Moon framework, no
 
 ### 2. Go to Sub-Layout Builder
 
-* Open the **“Sub-Layout”** tab > You will see a list of prebuilt sub-layouts, and edit the Footer sub-layout. 
+* Open the **“Sub-Layout”** tab > You will see a list of prebuilt sub-layouts, and edit the Breadcrumb sub-layout. 
 * You’ll see sections like:
 
 ![kandei-breadcrumb-sublayout.png](img/kandei-breadcrumb-sublayout.png)

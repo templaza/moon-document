@@ -21,14 +21,14 @@ You can build complex pages without coding by adding and organizing these compon
 
 When you come with pages such as: Home pages, About, Contact, Testimonials > Login, and FAQs, please heading to
 - Log in to the Admin Dashboard > Site Administration > Appearance > Themes 
-- Edit Kandei theme's settings > Layouts
+- Edit Unican theme's settings > Layouts
 - Select the layout you want to edit (e.g., About).
 - Click to open the layout builder interface.
 
-![kandei-page-layouts.png](img/kandei-page-layouts.png)
+![unican-page-layouts.png](img/unican-page-layouts.png)
 
 You can find all the prebuilt layouts available, if you want to create a new layout, just click on the "New Layout" button at the bottom. 
-Besides, you can also delete any necessary layout. 
+Besides, you can also delete any unnecessary layout. 
 
 ### 1. Layout Tabs
 

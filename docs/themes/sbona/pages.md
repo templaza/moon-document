@@ -28,7 +28,7 @@ When you come with pages such as: Home pages, About, Contact, Testimonials > Log
 ![sbona-page-layouts.png](img/sbona-page-layouts.png)
 
 You can find all the prebuilt layouts available, if you want to create a new layout, just click on the "New Layout" button at the bottom. 
-Besides, you can also delete any necessary layout. 
+Besides, you can also delete any unnecessary layout. 
 
 ### 1. Layout Tabs
 

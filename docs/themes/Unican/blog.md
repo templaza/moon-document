@@ -146,13 +146,12 @@ On very large sites, disabling this may slightly improve performance.
 
 # Adding a blog entry
 
-![sbona-blog-entry.png](img/sbona-blog-entry.png)
+![unican-blog-entry.png](img/unican-blog-entry.png)
 
-![sbona-blog-edit.png](img/sbona-blog-edit.png)
+![unican-new-blog-post.png](img/unican-new-blog-post.png)
 
 From the main menu > Blog > Add A new blog entry
-Alternatively, if the Blog menu block is enabled in the course, click Add a new entry there.
-Write your entry and give it a title.
+Alternatively, if the Blog menu block is enabled in the course, click Add a new entry there. Write your entry and give it a title.
 
 If you want to attach a file, click the Add button to access the File picker to locate a file. Be sure your document is smaller than the maximum attachment size. Alternatively, drag and drop your file into the box provided.
 
