@@ -2,34 +2,27 @@
 sidebar_position: 10
 ---
 
-# Course Enrolment
-
-## Overview
+# Course Enrolment Page
 
 Course enrolment in Moodle allows teachers or administrators to control **how users join a course**. Enrolment can be done manually, automatically, or through other methods depending on the course configuration.
 
-To manage enrolment settings, navigate to:
+## Add the "course content" section
 
-**Courses → Edit a course > Participants → Enrolment methods**
+To add the "course content" section:
 
-This page displays all enrolment methods currently enabled for the course.
+1. Go to course.
+2. Turn Editing On
+3. Add course sections, activities and resources, or sub-section. 
+
+>> Moodle documentation: [To add course sections](https://docs.moodle.org/500/en/Course_homepage#To_add_course_sections).
 
 ## Accessing the Enrolment Methods Page
 
 1. Open the course.
 2. Click **Participants** in the course navigation menu.
-3. From the dropdown menu, select **Enrolment methods**.
+3. From the dropdown menu, select **Enrolment methods**. You will see a list of enrolment methods available for the course.
 
-You will see a list of enrolment methods available for the course.
-
-### Available Actions
-
-Icons in the **Edit** column usually allow you to:
-
-* 👁 **Enable/Disable** the enrolment method
-* 👤➕ **Enrol users manually**
-* ✏️ **Edit settings**
-* 🗑 **Delete the enrolment method**
+![enrolment-methods.png](img/enrolment-methods.png)
 
 # Common Enrolment Methods
 
@@ -39,12 +32,16 @@ Manual enrolment allows teachers or administrators to add users individually.
 
 ### How to Enrol a User Manually
 
+![manual-enrollment.png](img/manual-enrollment.png)
+
 1. Go to **Participants → Enrolment methods**
 2. Locate **Manual enrolments**
 3. Click the **Enrol users icon (👤➕)**
-4. Search for a user
+4. Search for a user or select users on the right column
 5. Select a **Role** (Student, Teacher, etc.)
-6. Click **Enrol users**
+6. Click **Add**, and the selected users on the right will be moved to the enrolled users column on the left.
+
+![manual-enrollment2.png](img/manual-enrollment2.png)
 
 The selected user will immediately gain access to the course.
 
@@ -79,15 +76,6 @@ Features:
 
 * Users do not appear in the participant list
 * Guests typically cannot submit activities or assignments
-
-## 4. Cohort Synchronisation (Optional)
-
-Administrators can enrol **entire groups of users** automatically using cohorts.
-
-This is useful when:
-
-* A group of students needs access to multiple courses
-* Enrolment is managed at the **site level**
 
 # Managing Enrolment Methods
 

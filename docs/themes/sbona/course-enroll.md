@@ -16,8 +16,6 @@ This page displays all enrolment methods currently enabled for the course.
 
 ![sbona-course-enroll.png](img/sbona-course-enroll.png)
 
----
-
 ## Accessing the Enrolment Methods Page
 
 1. Open the course.
@@ -26,17 +24,14 @@ This page displays all enrolment methods currently enabled for the course.
 
 You will see a list of enrolment methods available for the course.
 
-
 ### Available Actions
 
 Icons in the **Edit** column usually allow you to:
 
 * 👁 **Enable/Disable** the enrolment method
 * 👤➕ **Enrol users manually**
-* ✏️ **Edit settings**
+* ✏️**Edit settings**
 * 🗑 **Delete the enrolment method**
-
----
 
 # Common Enrolment Methods
 
@@ -51,11 +46,9 @@ Manual enrolment allows teachers or administrators to add users individually.
 3. Click the **Enrol users icon (👤➕)**
 4. Search for a user
 5. Select a **Role** (Student, Teacher, etc.)
-6. Click **Enrol users**
+6. Click **Add**, and the selected users on the right will be moved to the enrolled users column on the left. 
 
 The selected user will immediately gain access to the course.
-
----
 
 ## 2. Self Enrolment
 
@@ -80,8 +73,6 @@ Self enrolment allows users to enrol themselves into a course.
 
 Click **Save changes** when finished.
 
----
-
 ## 3. Guest Access
 
 Guest access allows visitors to view course content without enrolling.
@@ -91,19 +82,6 @@ Features:
 * Users do not appear in the participant list
 * Guests typically cannot submit activities or assignments
 
----
-
-## 4. Cohort Synchronisation (Optional)
-
-Administrators can enrol **entire groups of users** automatically using cohorts.
-
-This is useful when:
-
-* A group of students needs access to multiple courses
-* Enrolment is managed at the **site level**
-
----
-
 # Managing Enrolment Methods
 
 ## Change Enrolment Order
@@ -112,16 +90,12 @@ Use the **Up/Down arrows** to reorder enrolment methods.
 
 This affects which method is used first if multiple enrolment options exist.
 
----
-
 ## Disable an Enrolment Method
 
 To temporarily stop new enrolments:
 
 1. Click the **eye icon (👁)** to disable the method.
 2. The method becomes inactive but existing users remain enrolled.
-
----
 
 ## Delete an Enrolment Method
 
