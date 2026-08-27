@@ -2,9 +2,7 @@
 sidebar_position: 11
 ---
 
-Here below is the way to change a section background image in Moon framework, not only for the Breadcrumb section, but for any other section in the layout.
-
-## 🔧 Change Background Image
+## Breadcrumb Background
 
 ### 1. Open Template Settings
 

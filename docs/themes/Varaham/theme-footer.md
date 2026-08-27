@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-## 1. Footer
+# Theme Footer
 
 ![varaham-footer.png](img/varaham-footer.png)
 
@@ -17,11 +17,11 @@ You can:
 * Add or remove footer sections
 * Control how the footer appears on desktop, tablet, and mobile
 
-## 2. Understanding the Footer Structure
+## Understanding the Footer Structure
 
 ![unican-edit-footer.png](img/unican-edit-footer.png)
 
-### 2.1 Sections
+### Sections
 
 The footer is divided into **sections** (labeled as *Astroid Section*).
 
@@ -30,7 +30,7 @@ Each section can contain:
 * One or more rows
 * Multiple content blocks (text, image, links, etc.)
 
-### 2.2 Rows and Columns
+### Rows and Columns
 
 Inside each section:
 
@@ -45,7 +45,7 @@ Inside each section:
 
 👉 Column sizes affect **desktop view**. Tablet and mobile views auto-adjust.
 
-## 3. Footer Content Blocks
+## Footer Content Blocks
 
 Each box inside a column is a **content block**.
 
@@ -59,7 +59,7 @@ Each box inside a column is a **content block**.
 * **Image** – Logo or footer image
 * **List** - Menu Links
 
-## 4. Editing Footer Content
+## Editing Footer Content
 
 1. Click on a content block (e.g. *About Us*)
 2. Update the text, image, or links
@@ -67,7 +67,7 @@ Each box inside a column is a **content block**.
 
 Changes apply instantly after saving.
 
-## 5. Adding New Content
+## Adding New Content
 
 ### Add a new content block
 
@@ -93,7 +93,7 @@ At the top of the editor, you can switch between:
 
 Use these to ensure the footer looks good on all devices.
 
-## 7. Footer background
+## Footer background
 
 ![varaham-edit-footer-section.png](img/varaham-edit-footer-section.png)
 
@@ -102,7 +102,7 @@ Use these to ensure the footer looks good on all devices.
 * Go back to Layouts > edit the Footer Section > Design tab. You can see background options: Color, Image, Video, and Gradient. 
 * If you don't want to set a background type, choose None.
 
-## 8. How the Footer Appears on the Website
+## How the Footer Appears on the Website
 
 * The footer **sub-layout** is linked to the **main layout**. You just need to edit the Main Layout > add the sub-layout to the footer section > Save. 
 * Any changes you make in the sub-layout will be automatically updated in the website footer.

@@ -2,7 +2,9 @@
 sidebar_position: 2
 ---
 
-## Installation & Demo Import
+# Installation & Demo Import
+
+## Installation
 
 **Upload Theme**
 
