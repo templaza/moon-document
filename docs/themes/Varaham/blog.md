@@ -8,7 +8,7 @@ sidebar_position: 10
 `Site administration → Appearance → Blog`
 
 This page allows administrators to control how the blog feature works across the entire site, including visibility, external blog integration, and comment management.
-You can also refer to the Moodle Blog Documentation: [Moodle Blog](https://docs.moodle.org/500/en/Blogs)
+You can also refer to the Moodle Blog Documentation: [Moodle Blog](https://docs.moodle.org/500/en/Blogs) 
 
 ![blog-options.png](img/blog-options.png)
 
@@ -60,7 +60,7 @@ This option defines how often Moodle checks external blog feeds for new entries.
 
 * 12 hours
 * 24 Hours
-* 2 days
+* 2 days  
 * 7 days
 
 **Important:**
@@ -100,9 +100,9 @@ This option displays the number of comments next to blog posts (Default: Yes)
 
 # Adding a blog entry
 
-![sbona-blog-entry.png](img/sbona-blog-entry.png)
+![varaham-add-new-blogpost.png](img/varaham-add-new-blogpost.png)
 
-![sbona-blog-edit.png](img/sbona-blog-edit.png)
+![varaham-add-new-blogpost2.png](img/varaham-add-new-blogpost2.png)
 
 From the main menu > Blog > Add A new blog entry
 Alternatively, if the Blog menu block is enabled in the course, click Add a new entry there. Write your entry and give it a title.
@@ -115,5 +115,5 @@ Choose who you wish to publish the entry to i.e. who may see the entry. There ar
 - Anyone on your site
 - Anyone in the world
 
-Select appropriate official tags for your entry and/or add one or more user defined tags. If you add more than one, they should be comma separated.
+Select appropriate official tags for your entry and/or add one or more user defined tags. If you add more than one, they should be comma separated. 
 Click on the "Save changes" button.

@@ -7,7 +7,7 @@ sidebar_position: 4
 ## 1. Accessing Header Settings
 
 1. Log in to the Admin Panel.
-2. Open **Appearance > Themes > Unican theme > click on the Settings icon**.
+2. Open **Appearance > Themes > Varaham theme > click on the Settings icon**.
 3. Navigate **Header** in the left sidebar.
 
 ## Enable Header
@@ -80,4 +80,61 @@ Example:
 * **Small**: Header stays desktop-style longer.
 
 > Recommended setting: **Large** for better mobile usability.
+
+# Sticky Header
+
+![varaham-sticky-header-options.png](img/varaham-sticky-header-options.png)
+
+The Sticky Header settings allow you to control whether the header remains visible while visitors scroll through your website.
+
+1. **Enable Sticky Menu**
+
+Use this option to enable or disable the Sticky Header.
+
+Enabled: The header can remain visible while the visitor scrolls.
+Disabled: The header behaves normally and does not use sticky behavior.
+
+2. **Container Type**
+
+The Container Type determines the container structure used by the Sticky Header.
+
+Choose an appropriate container type based on the layout of your website.
+
+This setting is useful when you want the sticky header content to follow the same container behavior as the rest of your site.
+
+3. **Sticky on Desktop**
+
+Determines how the header behaves on desktop screens.
+
+Available options include:
+
+* Sticky – The header remains fixed at the top of the screen while scrolling.
+* Sticky on Scroll Up – The header appears when the visitor scrolls upward and hides when scrolling downward.
+
+For example, select Sticky if you want the navigation to remain permanently accessible while visitors browse a long page.
+
+4. **Sticky on Tablet**
+
+Controls Sticky Header behavior on tablet devices.
+
+You can choose:
+
+* Static – Normal header behavior.
+* Sticky – Keeps the header visible while scrolling.
+* Sticky on Scroll Up – Shows the header when the user scrolls back up.
+
+This allows you to use a different behavior from desktop. For example, you can keep the header sticky on desktop but use a static header on tablets.
+
+5. **Sticky on Mobile**
+
+Controls Sticky Header behavior on mobile devices.
+
+The available options are:
+
+* Static – The header scrolls normally with the page.
+* Sticky – The header remains at the top while scrolling.
+* Sticky on Scroll Up – The header becomes visible when the visitor scrolls upward.
+
+
+
 
