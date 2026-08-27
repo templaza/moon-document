@@ -10,8 +10,6 @@ sidebar_position: 10
 This page allows administrators to control how the blog feature works across the entire site, including visibility, external blog integration, and comment management.
 You can also refer to the Moodle Blog Documentation: [Moodle Blog](https://docs.moodle.org/500/en/Blogs)
 
-![blog-options.png](img/blog-options.png)
-
 ## 1. Enable Blog Associations
 
 This option allows blog posts to be linked (associated) with:
