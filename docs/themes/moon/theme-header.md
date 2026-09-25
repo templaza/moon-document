@@ -4,10 +4,6 @@ sidebar_position: 4
 
 # Header Settings
 
-This document explains how to configure the **Header** in the Moon framework. It is written for site administrators and non‑technical users.
-
----
-
 ## 1. Accessing Header Settings
 
 1. Log in to the Admin Panel.
@@ -16,7 +12,6 @@ This document explains how to configure the **Header** in the Moon framework. It
 4. Click **Save** after making changes.
 
 Use **Preview** to check the result before publishing.
----
 
 ## Enable Header
 
@@ -27,9 +22,7 @@ Use **Preview** to check the result before publishing.
 
 > Tip: Turn this off if you want a landing page without a header.
 
----
-
-# Header Modes
+## Header Modes
 
 The Moon Header System supports three primary modes, each with its own layout options and configuration parameters.
 
@@ -38,7 +31,7 @@ To select a header mode, follow these steps:
 2. Select a **Header Mode** option.
 3. Save your changes.
 
-## Horizontal Header
+### Horizontal Header
 
 The horizontal header layout arranges elements in a row across the page. It offers three different menu placement options: left, center, and right.
 
@@ -46,7 +39,7 @@ The horizontal header layout arranges elements in a row across the page. It offe
 * **Center**: Here the logo is to the left, menu items are in the center and the header block is on the right
 * **Right**: Here the logo is to the left, the menu items and header block are to the right
 
-## Stacked Header
+### Stacked Header
 
 The stacked header provides more complex layouts with elements stacked in multiple rows. It supports five layout variants:
 
@@ -56,7 +49,7 @@ The stacked header provides more complex layouts with elements stacked in multip
 * **Divided** - Logo on left, menu below
 * **Divided** Logo Left - Logo on left in a fixed width column with menu and other elements in adjacent columns
 
-## Sidebar Header
+### Sidebar Header
 
 The sidebar header positions elements in a vertical column on the side of the page. It offers three placement options:
 
@@ -64,7 +57,7 @@ The sidebar header positions elements in a vertical column on the side of the pa
 * **Right** - Vertical header on the right side
 * **Topbar** - Combination of horizontal topbar with vertical sidebar
 
-## Header Blocks
+### Header Blocks
 Choose what you want to display in the header blocks from the given options in the dropdown that is:
 
 * **Blank**: Leave a blank space
@@ -75,9 +68,7 @@ Choose what you want to display in the header blocks from the given options in t
 Some Header Blocks will only work on desktops, not for tablets and mobile.
 :::
 
----
-
-## Header Breakpoint
+### Header Breakpoint
 
 Controls **when the header changes layout on smaller screens**.
 
@@ -94,20 +85,39 @@ Example:
 
 > Recommended setting: **Large** for better mobile usability.
 
----
-
 ## Common Issues & Solutions
 
-**Header not visible**
+**Header not visible**: Check that **Enable Header** is turned on.
 
-* Check that **Enable Header** is turned on.
+**Menu not aligned correctly**: Verify **Header Mode** and **Horizontal Menu Mode**.
 
-**Menu not aligned correctly**
+**Changes not showing**: Click **Clear Cache**, then refresh the page.
 
-* Verify **Header Mode** and **Horizontal Menu Mode**.
+# Header TopBar
 
-**Changes not showing**
+![moon-header.png](img/moon-header.png)
 
-* Click **Clear Cache**, then refresh the page.
+## Assign Contact Info and Social Profile to a position
 
----
+* You should go to Theme settings > Edit a page (ex: Frontpage) > Contact Information > Enable the contact details, then add your contact info such as: phone number, address, email, open hours ...
+* Select a region to display the block (choose Top-left)
+
+![moon-contact-info.png](img/moon-contact-info.png)
+
+* Then go to Social Profile > Enable Social Profile > Select a region to display the block (Choose top-right)
+
+![moon-social-profile.png](img/moon-social-profile.png)
+
+## Create a sub-layout for the top-bar
+
+Go to Layout > Sub layouts > Create a sub layout > Add blocks and elements to fit your need. 
+With each block, you should select a corresponding region that is assigned to the contact info and social profile before. 
+
+![moon-topbar-sublayout.png](img/moon-topbar-sublayout.png)
+
+After that edit your main layout > add the sub-layout to the main layout. 
+
+![moon-topbar-block.png](img/moon-topbar-block.png)
+
+
+
