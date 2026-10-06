@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🔰 Grid Widget
+# Grid Widget
 
 The **Grid Widget** helps you create sections with multiple columns. You can place different content in each column (like text, images, buttons) and make your page look clean, organized, and responsive.
 The Grid Widget is like a container that holds **columns**. Each column can have different content.

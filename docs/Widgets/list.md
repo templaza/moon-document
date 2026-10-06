@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# List
+# List Widget
 
 The **List Widget** in Moon Framework helps you create styled lists with icons, descriptions, and various formatting options. It's perfect for displaying feature lists, contact details, or any list-based content in a customizable layout.
 
@@ -53,12 +53,36 @@ Set the overall style of the list using the **List Style** dropdown:
 - **Title Font Style**: Adjust the typography for titles.
 - **Title Heading Margin**: Customize spacing around the title.
 
-## Icon Options 
+## Icon Options
 
 ![list-widget-icon-options.png](img/list-widget-icon-options.png)
 
-- **Icon Color**: Adjust the icon's color.
-- **Icon Padding**: Set the internal spacing within each icon.
+### Color CustomizationIcon 
+- **Color**: Set the icon color for both Light and Dark site modes.   
+- **Background Color**: Choose the container fill color behind the icon for Light and Dark site modes.
+
+### Size & Container Dimensions
+
+- **Icon Size**: Use the numerical input field or slider to set the icon glyph scale (e.g., 30px). Choose unit measurement (px, %, em).   
+- **Width**: Adjust the total width of the icon background container.   
+- **Height**: Adjust the total height of the icon background container.
+
+### Size & Container Dimensions
+
+- **Icon Size**: Use the numerical input field or slider to set the icon glyph scale (e.g., 30px). Choose unit measurement (px, %, em).   
+- **Width**: Adjust the total width of the icon background container.   
+- **Height**: Adjust the total height of the icon background container.
+
+### Spacing & Margins
+
+- **Icon Margin**: Control outer spacing around the icon container for Top, Right, Bottom, and Left edges.   
+- **Icon Padding**: Set inner spacing between the icon glyph and its background container border for Top, Right, Bottom, and Left edges.
+
+### Border & Corner Radius
+
+- **Border Style**: Select an outline frame style for the icon box (e.g., None, Solid, Dotted).   
+- **Radius**: Customize corner rounding for the container box for Top, Right, Bottom, and Left corners.   
+- **Controls**: For Margin, Padding, and Radius, select your preferred unit (px, %, em) and use the Lock Icon to set all sides uniformly or individually.
 
 ## Content Options
 
@@ -73,15 +97,5 @@ Set the overall style of the list using the **List Style** dropdown:
 - **Item Margin**: Set the spacing between list items.
 - **Item Padding**: Set internal spacing within each item.
 
-## ✅ Tips & Best Practices
 
-- Keep titles short and icons relevant for better visual impact.
-- Use **List Group** styles for more polished Bootstrap-like layouts.
-- Combine **dynamic content** with the list for data-driven items.
 
-## 📌 Example Use Cases
-
-- ✅ Features List
-- 📱 Contact Information
-- 🛠️ Service Highlights
-- 📚 Resource/Document Lists
