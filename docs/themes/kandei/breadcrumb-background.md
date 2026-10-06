@@ -13,16 +13,12 @@ Here below is the way to change a section background image in Moon framework, no
 * Go to **Moodle Admin → Site Administration → Appearance → Themes → Kandei Settings → Layout → Sublayout
 * The **theme breadcrumb** is created using a **Sub-Layout**. This sub-layout is then inserted into the **Main Layout**, allowing you to reuse and manage the breadcrumb content easily.
 
----
-
 ### 2. Go to Sub-Layout Builder
 
 * Open the **“Sub-Layout”** tab > You will see a list of prebuilt sub-layouts, and edit the Breadcrumb sub-layout. 
 * You’ll see sections like:
 
 ![kandei-breadcrumb-sublayout.png](img/kandei-breadcrumb-sublayout.png)
-
----
 
 ### 3. Edit the Section
 
@@ -36,8 +32,6 @@ Here below is the way to change a section background image in Moon framework, no
 
 ![kandei-section-bg-image.png](img/kandei-section-bg-image.png)
 
----
-
 ### 4. Configure Background
 
 * **Background Repeat** ex: No Repeat
@@ -45,8 +39,6 @@ Here below is the way to change a section background image in Moon framework, no
 * **Background Attachment** → ex: Fixed
 * **Background Position** → ex: Center Center
 * **Overlay** (optional) → Choose an overlay type (None, Color, Gradient, Pattern)
-
----
 
 ### 5. How the Breadcrumb Appears on the Website
 
