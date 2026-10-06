@@ -6,13 +6,13 @@ sidebar_position: 4
 
 The **List Widget** in Moon Framework helps you create styled lists with icons, descriptions, and various formatting options. It's perfect for displaying feature lists, contact details, or any list-based content in a customizable layout.
 
-## 🚀 How to add the List Widget
+## 1. How to add the List Widget
 
 - Open your layout editor, find the section where you want to place the widget.
 - Click on **Add Element**.
 - Choose **List widget** from the widget list.
 
-## ⚙️ General Settings
+## 2. General Settings
 
 ### Add List Items
 
@@ -29,7 +29,7 @@ You can add multiple list items, each with the following:
     - `Custom`: Provide your own CSS class for a custom icon.
 - **Fa_Icon**: Select an icon or enter a custom class depending on the type.
 
-## Misc Options
+## 3. Misc Options
 
 ![list-widget-misc-options.png](img/list-widget-misc-options.png)
 
@@ -45,7 +45,7 @@ Set the overall style of the list using the **List Style** dropdown:
 
 > 💡 If you choose **Description List**, you can also adjust the **Title Width** using a column range (1-12 columns).
 
-## Title Options
+## 4. Title Options
 
 ![list-widget-title-options.png](img/list-widget-title-options.png)
 
@@ -53,7 +53,7 @@ Set the overall style of the list using the **List Style** dropdown:
 - **Title Font Style**: Adjust the typography for titles.
 - **Title Heading Margin**: Customize spacing around the title.
 
-## Icon Options
+## 5. Icon Options
 
 ![list-widget-icon-options.png](img/list-widget-icon-options.png)
 
@@ -84,13 +84,13 @@ Set the overall style of the list using the **List Style** dropdown:
 - **Radius**: Customize corner rounding for the container box for Top, Right, Bottom, and Left corners.   
 - **Controls**: For Margin, Padding, and Radius, select your preferred unit (px, %, em) and use the Lock Icon to set all sides uniformly or individually.
 
-## Content Options
+## 6. Content Options
 
 ![list-widget-content-options.png](img/list-widget-content-options.png)
 
 - **Content Font Style**: Adjust the typography for the description (if used).
 
-## Spacing Options
+## 7. Spacing Options
 
 ![list-widget-spacing-options.png](img/list-widget-spacing-options.png)
 

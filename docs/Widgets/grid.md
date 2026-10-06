@@ -11,13 +11,13 @@ For example:
 - You can split your page into **2 or 3 columns**
 - In each column, you can add **Text, Images, Buttons, etc.**
 
-# ✅ When to Use It?
+# When to Use It?
 
 - To show **text and image side by side**
 - To create a **3-column feature section**
 - To display **team members**, **services**, or **product boxes**
 
-# 🚀 How to Use Grid Widget
+# How to Use Grid Widget
 
 ## 1. Add a Grid Widget
 1. Go to your **Layout Builder**
