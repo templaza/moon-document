@@ -6,25 +6,25 @@ sidebar_position: 3
 
 The **Icon Widget** in the Moon Framework allows you to display a collection of icons with links, custom colors, and tooltips. It’s ideal for showcasing social media icons, feature highlights, or quick links.
 
-## 🛠️ How to add the widget
+## 1. How to add the widget
 
-In your layout builder:
-- Click **Add Widget**
+In your layout builder, find the section you would like to add the widget
+- Click **Add Element**
 - Select **Icons Widget** from the list
 
-## ⚙️ Widget's general Options
+## 2. Widget's general Options
 
 ![icon-widget-general.png](img/icon-widget-general.png)
 
 ![icon-widget-add-item.png](img/icon-widget-add-item.png)
 
-- **Title (`title`)**  
+- **Title**  
   The heading or tooltip for the icon. This can be left blank.
 
-- **Icon (`icon`)**  
+- **Icon**  
   Choose from the built-in icon library (FontAwesome or custom icon sets). Example: `fas fa-star`.
 
-- **Link URL (`link`)**  
+- **Link URL**  
   Add a URL to make the icon clickable. Example: `https://facebook.com`.
 
 - **Color**:  Pick the default icon color.
@@ -34,7 +34,7 @@ _ **Background Hover Color**: Choose background color of the icon when hovering 
 
 You can add **multiple icons** in a list format using the subform under this section.
 
-## Configure Icon Options
+## 3. Configure Icon Options
 
 ![icon-widget-icon-options.png](img/icon-widget-icon-options.png)
 
@@ -52,8 +52,8 @@ Set the overall size of the icon.
 
 Set the icon colors for different states:
 
-Light – Choose the icon color for the light theme or light state.
-Dark – Choose the icon color for the dark theme or dark state.
+- **Light** – Choose the icon color for the light theme or light state.
+- **Dark** – Choose the icon color for the dark theme or dark state.
 
 ### Width 
 
@@ -75,8 +75,7 @@ Adjust the roundness of the icon's corners.
 
 Defines the default border around the icon.
 
-Border Style – Select a border style such as None, solid, dashed, or other available styles.
-Additional border settings can be configured when a border style is enabled.
+- **Border Style**: Select a border style such as None, solid, dashed, or other available styles. Additional border settings can be configured when a border style is enabled.
 
 ### Border Hover
 
@@ -114,7 +113,7 @@ Add a unique CSS ID to the icon element. This can be useful for custom CSS, Java
 
 >Example: campus-icon
 
-## ✅ Example Use Case
+## 4. Example Use Case
 
 You want to display three social media icons (Facebook, Twitter, Instagram):
 1. Add three icon items.
@@ -123,6 +122,6 @@ You want to display three social media icons (Facebook, Twitter, Instagram):
 4. Set size to `24px` and gutter to `3` (medium).
 5. Customize colors to match your branding.
 
-## 📝 Notes
+## 5. Notes
+
 - Icons are rendered using icon fonts. Make sure your theme includes the appropriate font library (e.g., FontAwesome).
-- This widget is responsive and lightweight.

@@ -14,7 +14,7 @@ The **List Widget** in Moon Framework helps you create styled lists with icons, 
 
 ## ⚙️ General Settings
 
-### 📝 Add List Items
+### Add List Items
 
 ![list-widget-general.png](img/list-widget-general.png)
 
