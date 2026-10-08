@@ -8,9 +8,16 @@ The **List Widget** in Moon Framework helps you create styled lists with icons, 
 
 ## 1. How to add the List Widget
 
-- Open your layout editor, find the section where you want to place the widget.
-- Click on **Add Element**.
-- Choose **List widget** from the widget list.
+To add a Heading Widget to your layout:
+
+1. Open the **Moon Layout Builder**.
+2. Open an existing layout or create a new one.
+3. Select the **Section**, **Row**, and **Column** where you want to place the text.
+4. Click **Add Element**.
+5. Select **Text**.
+6. Open the List Widget settings.
+7. Configure the content and design options.
+8. Click **Save changes**.
 
 ## 2. General Settings
 

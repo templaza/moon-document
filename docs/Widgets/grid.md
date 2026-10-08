@@ -17,12 +17,20 @@ For example:
 - To create a **3-column feature section**
 - To display **team members**, **services**, or **product boxes**
 
-# How to Use Grid Widget
+# How to configure the widget
 
 ## 1. Add a Grid Widget
-1. Go to your **Layout Builder**
-2. Click **Add Element**
-3. Choose **Grid** from the list
+
+To add a Grid Widget to your layout:
+
+1. Open the **Moon Layout Builder**.
+2. Open an existing layout or create a new one.
+3. Select the **Section**, **Row**, and **Column** where you want to place the text.
+4. Click **Add Element**.
+5. Select **Text**.
+6. Open the Heading Widget settings.
+7. Configure the content and design options.
+8. Click **Save changes**.
 
 ## 2. Add Grid Items
 

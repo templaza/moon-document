@@ -6,11 +6,18 @@ sidebar_position: 3
 
 The **Icon Widget** in the Moon Framework allows you to display a collection of icons with links, custom colors, and tooltips. It’s ideal for showcasing social media icons, feature highlights, or quick links.
 
-## 1. How to add the widget
+## 1. How to add the widget to layout
 
-In your layout builder, find the section you would like to add the widget
-- Click **Add Element**
-- Select **Icons Widget** from the list
+To add icon widget to your layout:
+
+1. Open the **Moon Layout Builder**.
+2. Open an existing layout or create a new one.
+3. Select the **Section**, **Row**, and **Column** where you want to place the text.
+4. Click **Add Element**.
+5. Select **Text**.
+6. Open the Heading Widget settings.
+7. Configure the content and design options.
+8. Click **Save changes**.
 
 ## 2. Widget's general Options
 

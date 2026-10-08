@@ -6,13 +6,20 @@ sidebar_position: 1
 
 The **Button Widget** in Moon Framework allows you to create stylish, customizable buttons that link to internal or external pages. You can also configure icons, styles, sizes, and even dynamic content for enhanced flexibility.
 
-## 📌 Where to Find It
+## 1. Add the widget to a layout
 
-1. Go to your Moodle Administrator > Appearance > Themes > Moon theme's settings
-2. Open the **Layout** tab
-3. Add a new element > choose Button widget
+To add a Heading Widget to your layout:
 
-## ⚙️ General Settings
+1. Open the **Moon Layout Builder**.
+2. Open an existing layout or create a new one.
+3. Select the **Section**, **Row**, and **Column** where you want to place the text.
+4. Click **Add Element**.
+5. Select **Text**.
+6. Open the Button Widget settings.
+7. Configure the content and design options.
+8. Click **Save changes**.
+
+## 2. General Settings
 
 ![button-widget-general.png](img/button-widget-general.png)
 
@@ -50,7 +57,7 @@ Click on the Add Item button to add a new button
 
 - Configure font style of the button text.
 
-## 🎨 Widget Styles
+## 3. Widget Styles
 
 ![button-widget-style.png](img/button-widget-style.png)
 
